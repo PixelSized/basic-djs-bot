@@ -1,0 +1,15 @@
+{
+  "name": "basic-djs-bot",
+  "version": "2.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jenk Scalia",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.0.0",
+    "request": "^2.88.0"
+  }
+}
